@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DEMO LINQ 2", "DEMO LINQ 2\DEMO LINQ 2.csproj", "{CDEA3E57-0968-492E-9C67-4C25AB8A7ACF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDEA3E57-0968-492E-9C67-4C25AB8A7ACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDEA3E57-0968-492E-9C67-4C25AB8A7ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDEA3E57-0968-492E-9C67-4C25AB8A7ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDEA3E57-0968-492E-9C67-4C25AB8A7ACF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A430B4FA-D2BB-431D-A8ED-B0A3AA5E1B5B}
+	EndGlobalSection
+EndGlobal
